@@ -6,3 +6,6 @@ git commit -m 'ваше сообщение'
 
 *Отправка изменений:
 git push
+
+*Обновление ветки до актуального состояния:
+git rebase master (либо загружаем с сервера git pull --rebase origin/master)
